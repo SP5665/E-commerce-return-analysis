@@ -65,6 +65,7 @@ The analysis uses **4 CSV files from the Brazilian E-Commerce Public Dataset by 
 - Matplotlib (visualization)  
 - Jupyter Notebook / VSCode (for running the notebook)
 
-Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Credits
+Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) <br>
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
 Changes made: None
